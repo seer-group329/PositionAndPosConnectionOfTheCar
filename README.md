@@ -1,2 +1,3 @@
 # PositionAndPosConnectionOfTheCar
 在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径
+这是本人在仙工智能实习时的成果
