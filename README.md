@@ -8,3 +8,5 @@
 2、https://www.cs.montana.edu/paxton/classes/aui/dslectures/CoxdeBoor.pdf
 
 3、Elbanhawi, M., et al. (2015). "Continuous Path Smoothing for Car-Like Robots Using B-Spline Curves." Journal of Intelligent & Robotic Systems 80(S1): 23-56.
+# 鸣谢：
+此程序为在仙工智能 SEER实习期间完成(7.12 - 8.16)，感谢黄强盛老师在期间的指导。
